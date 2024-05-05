@@ -26,4 +26,12 @@ python setup.py develop --no_cuda_ext
 ### Quick Start (Single Image Inference)
 ---
 * ```python basicsr/demo.py -opt options/demo/demo.yml```
-  * modified your 
+  * modified your
+ 
+### Results
+---
+Some of the images.
+
+### License
+
+This project is under the MIT license.
