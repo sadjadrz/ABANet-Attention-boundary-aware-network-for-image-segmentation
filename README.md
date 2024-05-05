@@ -34,8 +34,6 @@ Some of the images.
 
 ### License
 
-This project is under the MIT license.
-
 ### Citations
 
 If ABANet-Attention-Boundary-Aware-Network-for-image-segmentation helps your research or work, please consider citing it.
@@ -43,10 +41,10 @@ If ABANet-Attention-Boundary-Aware-Network-for-image-segmentation helps your res
 @InProceedings{qq,
     author    = {x, y, z, r, t, v},
     title     = {ABANet-Attention-Boundary-Aware-Network-for-image-segmentation},
-    booktitle = {IEEE/CVF Conference},
-    month     = {June},
-    year      = {2023},
-    pages     = {175-190}
+    booktitle = {},
+    month     = {},
+    year      = {},
+    pages     = {}
 }
 ```
 
