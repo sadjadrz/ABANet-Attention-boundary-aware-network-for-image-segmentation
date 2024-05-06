@@ -5,7 +5,6 @@ ABANet-Attention-Boundary-Aware-Network-for-image-segmentation
 > In this paper,
 
 ### Network Architecture
-img
 
 ### News
 
@@ -15,7 +14,6 @@ NOT excited reqirement.txt
 
 ```python
 python 3.6.9
-pytorch 1.5.1
 ```
 ```
 git clone https://github.com/sadjadrz/ABANet-Attention-Boundary-Aware-Network-for-image-segmentation
