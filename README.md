@@ -2,7 +2,7 @@ ABANet (Attention Boundary-Aware Network for image segmentation)
 ---
 > This repository is the official PyTorch implementation of the paper "[ABANet: Attention boundary-aware network for image segmentation](https://doi.org/10.1111/exsy.13625)"
 
-> [Sadjad Rezvani](https://sadjadrz.github.io/), [Mansoor Fateh](https://scholar.google.com/citations?user=ZHezeMIAAAAJ&hl=en&oi=ao), [Hossein Khosravi](https://scholar.google.com/citations?hl=en&user=htZke-UAAAAJ)
+> [Sadjad Rezvani](https://scholar.google.com/citations?user=jxn15pUAAAAJ&hl=en&oi=sra), [Mansoor Fateh](https://scholar.google.com/citations?user=ZHezeMIAAAAJ&hl=en&oi=ao), [Hossein Khosravi](https://scholar.google.com/citations?hl=en&user=htZke-UAAAAJ)
 
 #### Sadjad Rezvani, x, y, z
 #### Paper: https://google.com
