@@ -53,7 +53,7 @@ git clone https://github.com/sadjadrz/ABANet-Attention-boundary-aware-network-fo
 
 ### Citations
 
-If ABANet (Attention Boundary-Aware Network for image segmentation) helps your research or work, please consider citing it.
+If you find this code useful for your research, please cite our paper:
 ```
 @article{rezvaniabanet,
  title={ABANet: Attention boundary-aware network for image segmentation},
