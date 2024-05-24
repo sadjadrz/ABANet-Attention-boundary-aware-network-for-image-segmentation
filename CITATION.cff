@@ -1,7 +1,60 @@
-@article{rezvaniabanet,
-  title={ABANet: Attention boundary-aware network for image segmentation},
-  author={Rezvani, Sadjad and Fateh, Mansoor and Khosravi, Hossein},
-  journal={Expert Systems},
-  pages={e13625},
-  publisher={Wiley Online Library}
-}
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  ABANet: Attention boundary-aware network for image
+  segmentation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sadjad
+    family-names: Rezvani
+  - given-names: 'Mansoor '
+    family-names: Fateh
+    orcid: 'https://orcid.org/0000-0003-2133-3480'
+  - given-names: 'Hossein '
+    family-names: Khosravi
+repository-code: >-
+  https://github.com/sadjadrz/ABANet-Attention-boundary-aware-network-for-image-segmentation
+url: 'https://doi.org/10.1111/exsy.13625'
+abstract: >-
+  Deep learning techniques have attained substantial
+  progress in various face-related tasks, such as face
+  recognition, face inpainting, and facial expression
+  recognition. To prevent infection or the spread of the
+  virus, wearing masks in public places has been mandated
+  following the COVID-19 epidemic, which has led to face
+  occlusion and posed significant challenges for face
+  recognition systems. Most prominent masked face
+  recognition solutions rely on mask segmentation tasks.
+  Therefore, segmentation can be used to mitigate the
+  negative impacts of wearing a mask and improve recognition
+  accuracy. Mask region segmentation suffers from two main
+  problems: there is no standard type of masks that people
+  wear, they come in different colors and designs, and there
+  is no publicly available masked face dataset with
+  appropriate ground truth for the mask region. In order to
+  address these issues, we propose an encoder-decoder
+  framework that utilizes a boundary-aware attention network
+  combined with a new hybrid loss to provide a map, patch,
+  and pixel-level supervision. We also introduce a dataset
+  called MFSD, with 11601 images and 12758 masked faces for
+  masked face segmentation. Furthermore, we compare the
+  performance of different cutting-edge deep learning
+  semantic segmentation models on the presented dataset.
+  Experimental results on the MSFD dataset reveal that the
+  suggested approach outperforms state-ofthe-art, algorithms
+  with 97.623% accuracy, 93.814% IoU, and 96.817% F1-score
+  rate.
+keywords:
+  - attention gate (AG)
+  - ' deep learning'
+  - masked face segmentation dataset
+  - semantic segmentation
+license: MIT
+commit: Yasin Rezvani
+version: '1.0'
+date-released: '2024-05-23'
