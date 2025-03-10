@@ -23,6 +23,16 @@ torchvision==0.11.2
 Matplotlib==3.2.2
 ```
 
+| **Package Name**      | **Version** |
+| --------------------- | ----------- |
+| `python`              | 3.7.11      |
+| `numpy`               | 1.18.5      |
+| `scikit-image`        | 0.19.2      |
+| `pillow`              | 9.0.0       |
+| `pytorch`             | 1.10.1      |
+| `torchvision`         | 0.11.2      |
+| `Matplotlib`          | 3.2.2       |
+
 create a conda environment: 
 ```
 conda create -n ABANet python=3.7.11 -y
