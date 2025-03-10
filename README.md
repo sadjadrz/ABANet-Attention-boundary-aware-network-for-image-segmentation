@@ -13,16 +13,6 @@ ABANet (Attention Boundary-Aware Network for image segmentation)
 
 ### Requirements
 
-```
-Python==3.7.11
-numpy==1.18.5
-scikit-image==0.19.2
-pillow==9.0.0
-PyTorch==1.10.1
-torchvision==0.11.2
-Matplotlib==3.2.2
-```
-
 | **Package Name**      | **Version** |
 | --------------------- | ----------- |
 | `python`              | 3.7.11      |
@@ -32,6 +22,7 @@ Matplotlib==3.2.2
 | `pytorch`             | 1.10.1      |
 | `torchvision`         | 0.11.2      |
 | `Matplotlib`          | 3.2.2       |
+
 
 create a conda environment: 
 ```
